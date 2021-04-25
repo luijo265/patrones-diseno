@@ -1,4 +1,4 @@
-package prototype.impl;
+package creacional.prototype.impl;
 
 /**
  * @author oscar javier blancarte iturralde

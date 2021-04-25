@@ -1,7 +1,7 @@
-package factorymethod.notification;
+package creacional.factorymethod.notification;
 
 
-import factorymethod.domain.ParametrosNotificacionDTO;
+import creacional.factorymethod.domain.ParametrosNotificacionDTO;
 
 public interface INotification {
 

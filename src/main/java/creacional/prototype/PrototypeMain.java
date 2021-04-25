@@ -1,8 +1,8 @@
-package prototype;
+package creacional.prototype;
 
-import prototype.impl.PriceListImpl;
-import prototype.impl.ProductItem;
-import prototype.impl.PrototypeFactory;
+import creacional.prototype.impl.PriceListImpl;
+import creacional.prototype.impl.ProductItem;
+import creacional.prototype.impl.PrototypeFactory;
 
 /**
  * @author oscar javier blancarte iturralde

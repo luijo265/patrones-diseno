@@ -1,10 +1,10 @@
-package factorymethod;
+package creacional.factorymethod;
 
-import factorymethod.domain.ParametrosNotificacionDTO;
-import factorymethod.notification.ENotificationType;
-import factorymethod.notification.FactoryNotification;
-import factorymethod.notification.IFactoryNotificacion;
-import factorymethod.notification.INotification;
+import creacional.factorymethod.domain.ParametrosNotificacionDTO;
+import creacional.factorymethod.notification.ENotificationType;
+import creacional.factorymethod.notification.FactoryNotification;
+import creacional.factorymethod.notification.IFactoryNotificacion;
+import creacional.factorymethod.notification.INotification;
 
 public class App {
 

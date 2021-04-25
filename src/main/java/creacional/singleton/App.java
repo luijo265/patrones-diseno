@@ -1,7 +1,7 @@
-package singleton;
+package creacional.singleton;
 
-import singleton.service.GestionarRol;
-import singleton.service.AccionEstante;
+import creacional.singleton.service.GestionarRol;
+import creacional.singleton.service.AccionEstante;
 
 public class App {
 

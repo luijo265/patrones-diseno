@@ -1,4 +1,4 @@
-package factorymethod.notification;
+package creacional.factorymethod.notification;
 
 public interface IFactoryNotificacion {
 

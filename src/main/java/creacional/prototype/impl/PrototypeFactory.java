@@ -1,4 +1,4 @@
-package prototype.impl;
+package creacional.prototype.impl;
 
 import java.util.HashMap;
 import java.util.Map;

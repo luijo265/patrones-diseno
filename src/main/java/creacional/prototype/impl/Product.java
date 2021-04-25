@@ -1,4 +1,4 @@
-package prototype.impl;
+package creacional.prototype.impl;
 
 public class Product implements IPrototype<Product> {
 

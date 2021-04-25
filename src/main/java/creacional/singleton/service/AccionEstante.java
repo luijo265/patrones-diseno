@@ -1,6 +1,6 @@
-package singleton.service;
+package creacional.singleton.service;
 
-import singleton.storage.UserStorage;
+import creacional.singleton.storage.UserStorage;
 
 import java.util.Optional;
 

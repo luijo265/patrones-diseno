@@ -1,4 +1,4 @@
-package factorymethod.domain;
+package creacional.factorymethod.domain;
 
 import lombok.Builder;
 import lombok.Data;

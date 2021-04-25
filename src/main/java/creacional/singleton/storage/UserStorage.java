@@ -1,4 +1,4 @@
-package singleton.storage;
+package creacional.singleton.storage;
 
 
 import lombok.Getter;
