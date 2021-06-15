@@ -8,7 +8,7 @@ public class GestionarRol {
 
         UserStorage user = UserStorage.getInstance();
 
-        user.setRol("Jefe");
+        user.setRol("Gigante");
         System.out.println("Cambiado el rol de "+user.getNombre());
 
     }

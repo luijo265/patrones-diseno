@@ -1,0 +1,5 @@
+Página 493
+
+Para comprender mejor cómo es que las clases se comunican entre sí a través de mediator, expondremos un escenario donde nos han pedido que desarrollemos una plataforma en la que además de la funcionalidad estándar de la misma, nos han solicitado que sea posible agregarle nuevos módulos (estos módulos pueden ser tan simple o complejo como queramos), lo importante es que la aplicación final pueda llegar a tener una gran cantidad de módulos instalados. Además de esto, los módulos pueden necesitar comunicarse entre sí, por lo que definir un sistema de comunicación entre los distintos módulos es muy importante.
+
+Los módulos instalados en nuestra aplicación requerirán de una comunicación bidireccional por lo que es necesario contemplar esto a la hora de desarrollar nuestra plataforma.

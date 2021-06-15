@@ -19,7 +19,7 @@ public class UserStorage {
 
     private UserStorage(){
         System.out.println("Consulta en Cache o DB");
-        this.rol = "Empleado";
+        this.rol = "Aldeano";
         this.apellido = "Briceño";
         this.nombre = "Luis";
     }

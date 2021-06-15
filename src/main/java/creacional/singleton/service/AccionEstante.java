@@ -22,7 +22,7 @@ public class AccionEstante {
     public void moverEstante(){
 
         Optional.of(user)
-                .map(usr -> usr.getRol().equals("Jefe"))
+                .map(usr -> usr.getRol().equals("Gigante"))
                 .map(this::getMessage)
                 .ifPresent(System.out::println);
 
